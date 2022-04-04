@@ -6,3 +6,5 @@ This is where you will learn how to get started with this project
 
 #Run These Commands
 git branch-- lists all branches
+
+#git merge
